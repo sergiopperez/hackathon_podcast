@@ -1,0 +1,1180 @@
+[
+  {
+    "text": "Lo primero que os quiero pedir es disculpas por la falta de contenido esta semana y por no haber hecho el directo semanal, he ido desbordado.\n",
+    "entities": [
+      {
+        "class": "people",
+        "text": "Lo primero que os quiero pedir"
+      },
+      {
+        "class": "organizations",
+        "text": "disculpas"
+      }
+    ]
+  },
+  {
+    "text": "No obstante, el lunes que viene sí habrá directo y viene cargadito.\n",
+    "entities": [
+      {
+        "class": "dates",
+        "text": "lunes que viene"
+      }
+    ]
+  },
+  {
+    "text": "Hay muchos temas que podríamos tratar hoy, pero que vamos a comentarlo el lunes con calma.\n",
+    "entities": [
+      {
+        "class": "topics",
+        "text": "muchos temas"
+      },
+      {
+        "class": "dates",
+        "text": "lunes"
+      }
+    ]
+  },
+  {
+    "text": "Hablo del descalabrocrypto, la manía por algunos de vincularlo con un interesado descrédito del bitcoin, también hablaremos de la nueva versión oficial que se va a ir imponiendo y que dice que lo peor ya ha pasado, también lo hablaremos con calma.\n",
+    "entities": [
+      {
+        "class": "topics",
+        "text": "Descalabrocrypto"
+      },
+      {
+        "class": "topics",
+        "text": "bitcoin"
+      },
+      {
+        "class": "topics",
+        "text": "nueva versión oficial"
+      }
+    ]
+  },
+  {
+    "text": "Algunos de ellos también con respecto a las noticias sobre las cbdcs que ponen los pelos de punta y la increíble lejanía de todo el mundo sobre la que se nos viene.\n",
+    "entities": [
+      {
+        "class": "topics",
+        "text": "noticias sobre las cbdcs"
+      },
+      {
+        "class": "topics",
+        "text": "la increíble lejanía de todo el mundo"
+      }
+    ]
+  },
+  {
+    "text": "Pero lo dicho, eso será el lunes.\n",
+    "entities": [
+      {
+        "class": "dates",
+        "text": "lunes"
+      }
+    ]
+  },
+  {
+    "text": "Hoy vamos a hablar del final de Silicon Valley como lo conocemos.\n",
+    "entities": [
+      {
+        "class": "topics",
+        "text": "Silicon Valley"
+      }
+    ]
+  },
+  {
+    "text": "La caída de meta y el colapso de las grandes tecnológicas podría ser una buena noticia.\n",
+    "entities": [
+      {
+        "class": "topics",
+        "text": "La caída de meta"
+      },
+      {
+        "class": "topics",
+        "text": "el colapso de las grandes tecnológicas"
+      }
+    ]
+  },
+  {
+    "text": "Quédate que lo que hoy te voy a contar sobre la economía digital y sus relaciones con la analógica y tradicional también te interesa.\n",
+    "entities": [
+      {
+        "class": "topics",
+        "text": "economía digital"
+      },
+      {
+        "class": "topics",
+        "text": "analógica"
+      },
+      {
+        "class": "topics",
+        "text": "tradicional"
+      }
+    ]
+  },
+  {
+    "text": "Las empresas tecnológicas atraviesan una época convulsa.\n",
+    "entities": [
+      {
+        "class": "organizations",
+        "text": "Las empresas tecnológicas"
+      },
+      {
+        "class": "topics",
+        "text": "una época convulsa"
+      }
+    ]
+  },
+  {
+    "text": "Para recortar costes se están produciendo despidos en todo el sector tecnológico, especialmente en Estados Unidos.\n",
+    "entities": [
+      {
+        "class": "organizations",
+        "text": "sector tecnológico"
+      },
+      {
+        "class": "places",
+        "text": "Estados Unidos"
+      }
+    ]
+  },
+  {
+    "text": "Y es previsible que eso continúe.\n",
+    "entities": [
+      {
+        "class": "None",
+        "text": "Y es previsible que eso continúe."
+      }
+    ]
+  },
+  {
+    "text": "Sólo nos estamos enterando de algunos de esos despidos.\n",
+    "entities": [
+      {
+        "class": "people",
+        "text": "Nos"
+      },
+      {
+        "class": "topics",
+        "text": "despidos"
+      }
+    ]
+  },
+  {
+    "text": "La mayoría se están llevando a cabo de un modo relativamente silencioso.\n",
+    "entities": [
+      {
+        "class": "None",
+        "text": "La mayoría"
+      },
+      {
+        "class": "None",
+        "text": "se están llevando a cabo de un modo relativamente silencioso."
+      }
+    ]
+  },
+  {
+    "text": "En lugar de realizar despidos a gran escala, que suelen hacerse públicos o al menos difundirse en toda una especie de empresa oculta, las empresas están recurriendo a las revisiones de rendimiento y a las restructuraciones internas para realizar recortes de tipo gradual.\n",
+    "entities": [
+      {
+        "class": "organizations",
+        "text": "empresas"
+      },
+      {
+        "class": "topics",
+        "text": "despidos"
+      },
+      {
+        "class": "topics",
+        "text": "rendimiento"
+      },
+      {
+        "class": "topics",
+        "text": "restructuraciones internas"
+      },
+      {
+        "class": "topics",
+        "text": "recortes"
+      }
+    ]
+  },
+  {
+    "text": "Se trata de un cambio importante con respecto al año pasado, cuando Facebook, Google, Microsoft, Amazon y casi todas las demás empresas tecnológicas competían ferozmente por el talento y además hacía crecer sus plantillas por miles y decenas de miles de personas.\n",
+    "entities": [
+      {
+        "class": "organizations",
+        "text": "Facebook"
+      },
+      {
+        "class": "organizations",
+        "text": "Google"
+      },
+      {
+        "class": "organizations",
+        "text": "Microsoft"
+      },
+      {
+        "class": "organizations",
+        "text": "Amazon"
+      }
+    ]
+  },
+  {
+    "text": "Ahora, todas están desesperadas por recortar personal.\n",
+    "entities": [
+      {
+        "class": "people",
+        "text": "todas"
+      },
+      {
+        "class": "topics",
+        "text": "recortar personal"
+      }
+    ]
+  },
+  {
+    "text": "Después de haber contratado en exceso durante la pandemia y de enfrentarse a un nuevo descenso de la inversión publicitaria, a la inflación y a las interrupciones del mercado, sobre todo internacional en Europa y Rusia, pues tienen esos problemas.\n",
+    "entities": [
+      {
+        "class": "organizations",
+        "text": "la pandemia"
+      },
+      {
+        "class": "organizations",
+        "text": "la inversión publicitaria"
+      },
+      {
+        "class": "places",
+        "text": "Europa"
+      },
+      {
+        "class": "places",
+        "text": "Rusia"
+      }
+    ]
+  },
+  {
+    "text": "Facebook ahora meta, contrató a 27.000 personas en los últimos dos años y ahora despedirá a 11.000, el 13% de su plantilla actual.\n",
+    "entities": [
+      {
+        "class": "organizations",
+        "text": "Facebook"
+      },
+      {
+        "class": "people",
+        "text": "27.000 personas"
+      },
+      {
+        "class": "people",
+        "text": "11.000"
+      },
+      {
+        "class": "people",
+        "text": "13%"
+      }
+    ]
+  },
+  {
+    "text": "Es la primera vez que esta empresa comete un ajuste laboral significativo o tan importante.\n",
+    "entities": [
+      {
+        "class": "organizations",
+        "text": "empresa"
+      }
+    ]
+  },
+  {
+    "text": "El propio Mark Zuckerberg, el presidente ejecutivo de la compañía y fundador, además casi propietario del todo, el que llevara la empresa a la cumbre y que ahora por sus apuestas podría estar llevándola también a la ruina, en un comunicado asumió que la responsabilidad es solo suya, que se equivocó y que en lugar de apartarse él va a encargarse de reflotarlo todo.\n",
+    "entities": [
+      {
+        "class": "people",
+        "text": "Mark Zuckerberg"
+      },
+      {
+        "class": "organizations",
+        "text": "compañía"
+      }
+    ]
+  },
+  {
+    "text": "Pero bueno, para empezar dice que justifica los despidos con la recesión económica, el aumento de la competencia como TikTok, la reducción de los ingresos por publicidad, en lo que tiene mucho que ver, por cierto, Apple, luego te lo explico de Apple.\n",
+    "entities": [
+      {
+        "class": "organizations",
+        "text": "Apple"
+      }
+    ]
+  },
+  {
+    "text": "Pero de momento Wall Street ha visto con buenos ojos esa decisión, la compañía ha ido subiendo un 7% inmediatamente después de conocerse la noticia, no tanto por el reajuste de costes que tenía que hacer, sino porque se sitúa en el escenario real de la economía en Silicon Valley.\n",
+    "entities": [
+      {
+        "class": "organizations",
+        "text": "Wall Street"
+      },
+      {
+        "class": "places",
+        "text": "Silicon Valley"
+      }
+    ]
+  },
+  {
+    "text": "Las valoraciones de las empresas se realizan en función a sus beneficios futuros, que para traernos al presente se utilizan los tipos de interés, los cuales han pasado de 0,25 a 3,25 en un año en Estados Unidos, por lo que el dinero del futuro vale menos ahora.\n",
+    "entities": [
+      {
+        "class": "organizations",
+        "text": "Empresas"
+      },
+      {
+        "class": "topics",
+        "text": "tipos de interés"
+      },
+      {
+        "class": "places",
+        "text": "Estados Unidos"
+      }
+    ]
+  },
+  {
+    "text": "Meta está buscando revertir ese efecto y trasladarlo a mejorar su eficiencia.\n",
+    "entities": [
+      {
+        "class": "organizations",
+        "text": "Meta"
+      }
+    ]
+  },
+  {
+    "text": "Pero Twitter o Stripe también representan una tendencia de despidos que recorre a la mayoría de empresas tecnológicas en Estados Unidos, en Silicon Valley, que como son multinacionales con sedes en todo el mundo, pues eso al final tiene una especie de reflejo en múltiples economías.\n",
+    "entities": [
+      {
+        "class": "organizations",
+        "text": "Twitter"
+      },
+      {
+        "class": "organizations",
+        "text": "Stripe"
+      },
+      {
+        "class": "places",
+        "text": "Estados Unidos"
+      },
+      {
+        "class": "places",
+        "text": "Silicon Valley"
+      },
+      {
+        "class": "topics",
+        "text": "múltiples economías"
+      }
+    ]
+  },
+  {
+    "text": "Además, es una tendencia que, en el caso de Facebook, Meta, empezó justo hace un año cuando Zuckerberg anunció el cambio de nombre de Facebook a Meta, tras múltiples escándalos corporativos y una voluntad de liderar ese concepto que hasta la fecha no se había tomado con relevancia suficiente y que ha tenido estos meses como protagonista el metaverso.\n",
+    "entities": [
+      {
+        "class": "people",
+        "text": "Zuckerberg"
+      },
+      {
+        "class": "organizations",
+        "text": "Facebook"
+      },
+      {
+        "class": "organizations",
+        "text": "Meta"
+      }
+    ]
+  },
+  {
+    "text": "Ese era el nuevo objetivo de negocio de la compañía, el metaverso, un espacio virtual donde la gente debía encontrarse y donde la gente debía pasar a vivir parte de su tiempo.\n",
+    "entities": [
+      {
+        "class": "organizations",
+        "text": "compañía"
+      },
+      {
+        "class": "topics",
+        "text": "metaverso"
+      },
+      {
+        "class": "places",
+        "text": "espacio virtual"
+      }
+    ]
+  },
+  {
+    "text": "Un año después, la compañía ha perdido el 70% de su valor en bolsa.\n",
+    "entities": [
+      {
+        "class": "organizations",
+        "text": "compañía"
+      },
+      {
+        "class": "dates",
+        "text": "Un año después"
+      }
+    ]
+  },
+  {
+    "text": "Llegó a valer 1,1 billones de dólares, literalmente el pay de español, pero a hoy vale 400.000 millones.\n",
+    "entities": [
+      {
+        "class": "organizations",
+        "text": "1,1 billones de dólares"
+      },
+      {
+        "class": "organizations",
+        "text": "400.000 millones"
+      }
+    ]
+  },
+  {
+    "text": "Su gran apuesta, Reality Labs, el motor de la compañía que debía desarrollar ese metaverso, ha presentado pérdidas por valor de 27.000 millones de dólares.\n",
+    "entities": [
+      {
+        "class": "organizations",
+        "text": "Reality Labs"
+      },
+      {
+        "class": "places",
+        "text": "27.000 millones de dólares"
+      }
+    ]
+  },
+  {
+    "text": "Así que ahora mismo Facebook afronta tres problemas, uno de audiencia, otro de mercado y un tercero de privacidad, como siempre ha tenido.\n",
+    "entities": [
+      {
+        "class": "organizations",
+        "text": "Facebook"
+      },
+      {
+        "class": "topics",
+        "text": "audiencia"
+      },
+      {
+        "class": "topics",
+        "text": "mercado"
+      },
+      {
+        "class": "topics",
+        "text": "privacidad"
+      }
+    ]
+  },
+  {
+    "text": "El primer problema está siendo el de dónde viene su nueva audiencia, porque con clientes que siguen llegando a la plataforma, de hecho todavía hay 39 millones más en los últimos análisis, lo que pasa es que su crecimiento sigue en un lugar en países donde se les puede considerar pobres, es decir, no son el objetivo comercial de Facebook, las marcas no quieren llegar donde está llegando ahora Facebook, porque esos clientes no tienen suficiente poder de compra y ya no interesan.\n",
+    "entities": [
+      {
+        "class": "organizations",
+        "text": "Facebook"
+      },
+      {
+        "class": "places",
+        "text": "países"
+      }
+    ]
+  },
+  {
+    "text": "El segundo problema de Facebook es el del mercado, y ahí es básicamente que tiene una competencia anticto que no nos sigue ganar, se está quedando con todos sus clientes, se está quedando sobre todo con sus clientes más jóvenes.\n",
+    "entities": [
+      {
+        "class": "organizations",
+        "text": "Facebook"
+      },
+      {
+        "class": "topics",
+        "text": "mercado"
+      },
+      {
+        "class": "organizations",
+        "text": "competencia anticto"
+      },
+      {
+        "class": "organizations",
+        "text": "clientes"
+      },
+      {
+        "class": "organizations",
+        "text": "clientes más jóvenes"
+      }
+    ]
+  },
+  {
+    "text": "Los menores de 18 años, incluso los menores de 25 años están saltando masivamente de plataformas como Instagram a plataformas como TikTok e incluso a YouTube Shorts, hasta el punto de que Instagram ha replicado exactamente el mismo modelo de TikTok con los denominados Reels, pero esos Reels solo suman el 20% del tiempo que se ocupa en Instagram, mientras que el otro 80% restante sigue un modelo menos rentable a la hora de dar dinero.\n",
+    "entities": [
+      {
+        "class": "people",
+        "text": "Los menores de 18 años"
+      },
+      {
+        "class": "people",
+        "text": "Los menores de 25 años"
+      },
+      {
+        "class": "places",
+        "text": "Instagram"
+      },
+      {
+        "class": "places",
+        "text": "TikTok"
+      },
+      {
+        "class": "places",
+        "text": "YouTube Shorts"
+      },
+      {
+        "class": "places",
+        "text": "Reels"
+      },
+      {
+        "class": "topics",
+        "text": "modelo de TikTok"
+      },
+      {
+        "class": "topics",
+        "text": "modelo menos rentable"
+      }
+    ]
+  },
+  {
+    "text": "Así que TikTok se ha convertido, o se está comiendo en gran medida, el negocio de Facebook.\n",
+    "entities": [
+      {
+        "class": "organizations",
+        "text": "TikTok"
+      },
+      {
+        "class": "organizations",
+        "text": "Facebook"
+      }
+    ]
+  },
+  {
+    "text": "El tercer gran problema que tiene Meta Facebook, o como le quieran llamar, es el de la privacidad, sobre todo tras el cambio de reglas por parte de Apple.\n",
+    "entities": [
+      {
+        "class": "organizations",
+        "text": "Meta Facebook"
+      },
+      {
+        "class": "topics",
+        "text": "privacidad"
+      },
+      {
+        "class": "organizations",
+        "text": "Apple"
+      }
+    ]
+  },
+  {
+    "text": "Apple ha cambiado las opciones de privacidad en sus sistemas operativos y ya no permite ni a Facebook ni a nadie seguir a los usuarios ni acceder a sus contactos.\n",
+    "entities": [
+      {
+        "class": "organizations",
+        "text": "Apple"
+      },
+      {
+        "class": "organizations",
+        "text": "Facebook"
+      }
+    ]
+  },
+  {
+    "text": "Es más, Apple permite a los usuarios bloquear la información que ceden a Facebook y, por tanto, la información que Facebook puede ceder a sus anunciantes.\n",
+    "entities": [
+      {
+        "class": "organizations",
+        "text": "Apple"
+      },
+      {
+        "class": "organizations",
+        "text": "Facebook"
+      }
+    ]
+  },
+  {
+    "text": "La conclusión que Apple ha roto el negocio de Facebook, según el análisis de lo TAM, se espera que la actualización de la privacidad de Apple que hizo en 2021 esté eliminando ahora casi 16.000 millones de dólares de los ingresos que tenía Facebook, la propia YouTube, Snap o Twitter este mismo año.\n",
+    "entities": [
+      {
+        "class": "organizations",
+        "text": "Apple"
+      },
+      {
+        "class": "organizations",
+        "text": "Facebook"
+      },
+      {
+        "class": "organizations",
+        "text": "TAM"
+      },
+      {
+        "class": "dates",
+        "text": "2021"
+      },
+      {
+        "class": "organizations",
+        "text": "YouTube"
+      },
+      {
+        "class": "organizations",
+        "text": "Snap"
+      },
+      {
+        "class": "organizations",
+        "text": "Twitter"
+      }
+    ]
+  },
+  {
+    "text": "Así que ahora mismo Facebook tiene varios desafíos que se replican en muchas otras grandes tecnológicas, una crisis de anunciantes, un modelo de negocio basado en los datos que ya no es eficiente como antes y, además, una cosa que están haciendo varias empresas, una entrada demasiado temprana y desordenada en cosas en meriendas por montar como podría ser el metaverso.\n",
+    "entities": [
+      {
+        "class": "organizations",
+        "text": "Facebook"
+      },
+      {
+        "class": "organizations",
+        "text": "tecnológicas"
+      },
+      {
+        "class": "organizations",
+        "text": "empresas"
+      },
+      {
+        "class": "topics",
+        "text": "metaverso"
+      }
+    ]
+  },
+  {
+    "text": "En el caso de Meta, si tú dependes de una plataforma, por ejemplo la de Apple, por un lado, o dependes por otra como podría ser la plataforma de Android, en el momento en que esas plataformas cambien sus reglas, te quedas desnudo, el cambio grande que hizo Tim Cook, el jefe de Apple, convirtiéndose en una especie de abogado de la privacidad y en considerar la privacidad de un derecho humano que ya estaría bien, cortó el modelo de gestión de Facebook, de la noche a la mañana los anunciantes se encontraron\n",
+    "entities": [
+      {
+        "class": "people",
+        "text": "Tim Cook"
+      },
+      {
+        "class": "organizations",
+        "text": "Apple"
+      },
+      {
+        "class": "organizations",
+        "text": "Android"
+      },
+      {
+        "class": "organizations",
+        "text": "Facebook"
+      }
+    ]
+  },
+  {
+    "text": "con que tenían muchísimos menos datos para poder dirigir su publicidad.\n",
+    "entities": [
+      {
+        "class": "people",
+        "text": null
+      },
+      {
+        "class": "books",
+        "text": null
+      },
+      {
+        "class": "films",
+        "text": null
+      },
+      {
+        "class": "videogames",
+        "text": null
+      },
+      {
+        "class": "songs",
+        "text": null
+      },
+      {
+        "class": "places",
+        "text": null
+      },
+      {
+        "class": "dates",
+        "text": null
+      },
+      {
+        "class": "topics",
+        "text": null
+      },
+      {
+        "class": "organizations",
+        "text": null
+      }
+    ]
+  },
+  {
+    "text": "Resultó ser que el mejor radar de la historia del mundo de la publicidad se acababa de romper.\n",
+    "entities": [
+      {
+        "class": "people",
+        "text": "Resultó"
+      },
+      {
+        "class": "topics",
+        "text": "radar"
+      },
+      {
+        "class": "topics",
+        "text": "historia"
+      },
+      {
+        "class": "topics",
+        "text": "publicidad"
+      },
+      {
+        "class": "topics",
+        "text": "romper"
+      }
+    ]
+  },
+  {
+    "text": "Pero la cosa no se quedará en Facebook.\n",
+    "entities": [
+      {
+        "class": "organizations",
+        "text": "Facebook"
+      }
+    ]
+  },
+  {
+    "text": "Por ejemplo, Elon Musk está despidiendo a la mitad de la plantilla de Twitter para hacerla sostenible.\n",
+    "entities": [
+      {
+        "class": "people",
+        "text": "Elon Musk"
+      },
+      {
+        "class": "organizations",
+        "text": "Twitter"
+      }
+    ]
+  },
+  {
+    "text": "Stripe, Robin Hood, Salesforce, Snap, Netflix e incluso Oracle, así hasta casi 50.000 personas despedidas en un solo mes en Estados Unidos.\n",
+    "entities": [
+      {
+        "class": "organizations",
+        "text": "Stripe"
+      },
+      {
+        "class": "organizations",
+        "text": "Robin Hood"
+      },
+      {
+        "class": "organizations",
+        "text": "Salesforce"
+      },
+      {
+        "class": "organizations",
+        "text": "Snap"
+      },
+      {
+        "class": "organizations",
+        "text": "Netflix"
+      },
+      {
+        "class": "organizations",
+        "text": "Oracle"
+      },
+      {
+        "class": "places",
+        "text": "Estados Unidos"
+      }
+    ]
+  },
+  {
+    "text": "Es cierto que la cifra es abrumadora, pero en realidad solo es el 1% del total de la mano de obra tecnológica que hay en Estados Unidos que ronda los 6 millones aproximadamente.\n",
+    "entities": [
+      {
+        "class": "places",
+        "text": "Estados Unidos"
+      }
+    ]
+  },
+  {
+    "text": "Hay otras empresas como Microsoft, Apple, Amazon o la propia Google que están dejando de contratar y son empresas que siempre están contratando y algunos hablan de que incluso han empezado a hacer listas de despidos.\n",
+    "entities": [
+      {
+        "class": "organizations",
+        "text": "Microsoft"
+      },
+      {
+        "class": "organizations",
+        "text": "Apple"
+      },
+      {
+        "class": "organizations",
+        "text": "Amazon"
+      },
+      {
+        "class": "organizations",
+        "text": "Google"
+      }
+    ]
+  },
+  {
+    "text": "Amazon ya ha anunciado una iniciativa de recorte de costes de unidad de negocio no rentables y eso lo vincula con las complicadas expectativas que de alguna manera entienden que tiene el mercado y que además auguran prácticamente todas las empresas tecnológicas.\n",
+    "entities": [
+      {
+        "class": "organizations",
+        "text": "Amazon"
+      },
+      {
+        "class": "topics",
+        "text": "recorte de costes"
+      },
+      {
+        "class": "topics",
+        "text": "expectativas"
+      },
+      {
+        "class": "topics",
+        "text": "mercado"
+      },
+      {
+        "class": "topics",
+        "text": "empresas tecnológicas"
+      }
+    ]
+  },
+  {
+    "text": "De hecho, el propio Elon Musk dijo en su primera reunión con el personal de Twitter desde que compró la compañía que la bancarrota no está descartada.\n",
+    "entities": [
+      {
+        "class": "people",
+        "text": "Elon Musk"
+      },
+      {
+        "class": "organizations",
+        "text": "Twitter"
+      }
+    ]
+  },
+  {
+    "text": "Lo explicó en su primera comunicación con toda la empresa desde que asumió el cargo hace eso.\n",
+    "entities": [
+      {
+        "class": "people",
+        "text": "Lo"
+      },
+      {
+        "class": "organizations",
+        "text": "empresa"
+      }
+    ]
+  },
+  {
+    "text": "En esa nota puso fin al trabajo remoto.\n",
+    "entities": [
+      {
+        "class": "topics",
+        "text": "trabajo remoto"
+      }
+    ]
+  },
+  {
+    "text": "Acabó el teletrabajo y advirtió a los empleados de que el panorama económico, el que sea vecina, es terrible.\n",
+    "entities": [
+      {
+        "class": "organizations",
+        "text": "teletrabajo"
+      },
+      {
+        "class": "places",
+        "text": "vecina"
+      }
+    ]
+  },
+  {
+    "text": "Por lo menos hay alguien que habla claro.\n",
+    "entities": [
+      {
+        "class": "people",
+        "text": "alguien"
+      }
+    ]
+  },
+  {
+    "text": "Se calcula que solo en Estados Unidos un cuarto de millón de personas dejarán sus empleos tecnológicos y ahora la clave estará en distinguir entre si es una explosión de una burbuja o es una recolocación de las fichas.\n",
+    "entities": [
+      {
+        "class": "places",
+        "text": "Estados Unidos"
+      },
+      {
+        "class": "people",
+        "text": "un cuarto de millón de personas"
+      },
+      {
+        "class": "organizations",
+        "text": "empleos tecnológicos"
+      }
+    ]
+  },
+  {
+    "text": "Pero volviendo a Elon Musk y sus posibles genialidades, la bancarrota generalmente se ve como un último esfuerzo de las empresas, pero podría ser algo muy beneficioso para Twitter, ya que Musk la cargó con deuda hasta su financiación apalancada de 44.000 millones de dólares.\n",
+    "entities": [
+      {
+        "class": "people",
+        "text": "Elon Musk"
+      },
+      {
+        "class": "organizations",
+        "text": "Twitter"
+      }
+    ]
+  },
+  {
+    "text": "Twitter ahora tiene más de 10.000 millones en deuda.\n",
+    "entities": [
+      {
+        "class": "organizations",
+        "text": "Twitter"
+      },
+      {
+        "class": "dates",
+        "text": "10.000 millones"
+      }
+    ]
+  },
+  {
+    "text": "Los pagos de intereses sobre eso pueden ser tan altos que la empresa pueda tener dificultades para cumplir con sus obligaciones, especialmente si pasa lo que está pasando, que los anunciantes se están retirando durante este momento de economía débil, de economía etcétera.\n",
+    "entities": [
+      {
+        "class": "organizations",
+        "text": "La empresa"
+      }
+    ]
+  },
+  {
+    "text": "Incluso antes del acuerdo, Twitter tuvo que luchar por obtener ganancias, no le era fácil ni cuándo las cosas iban bien.\n",
+    "entities": [
+      {
+        "class": "organizations",
+        "text": "Twitter"
+      },
+      {
+        "class": "topics",
+        "text": "ganancias"
+      }
+    ]
+  },
+  {
+    "text": "Por lo tanto, una bancarrota le daría a Elon Musk la oportunidad de reducir esa carga de deuda y reducir los pagos de intereses.\n",
+    "entities": [
+      {
+        "class": "people",
+        "text": "Elon Musk"
+      }
+    ]
+  },
+  {
+    "text": "El castigo por tal medida, obviamente, sería que los prestamistas y los tenedores de bonos de Twitter pues probablemente tomarían gran participación en la empresa.\n",
+    "entities": [
+      {
+        "class": "people",
+        "text": "Twitter"
+      },
+      {
+        "class": "organizations",
+        "text": "prestamistas"
+      },
+      {
+        "class": "organizations",
+        "text": "tenedores de bonos"
+      }
+    ]
+  },
+  {
+    "text": "No sé si el control, pero sí una participación.\n",
+    "entities": [
+      {
+        "class": "topics",
+        "text": "control"
+      },
+      {
+        "class": "topics",
+        "text": "participación"
+      }
+    ]
+  },
+  {
+    "text": "A cambio, fundamentalmente, de renunciar a su derecho a que se les paguen los intereses y el capital que se les debe, así es como lo suelen hacer en Estados Unidos.\n",
+    "entities": [
+      {
+        "class": "places",
+        "text": "Estados Unidos"
+      }
+    ]
+  },
+  {
+    "text": "De resultado, en teoría significaría que Musk y otros inversionistas en su acuerdo poseerían mucho menos Twitter, pero aún podría mantener el control de la compañía y salvarla.\n",
+    "entities": [
+      {
+        "class": "people",
+        "text": "Musk"
+      },
+      {
+        "class": "organizations",
+        "text": "Twitter"
+      }
+    ]
+  },
+  {
+    "text": "Ahora bien, en mi opinión, aunque no todas estas empresas pueden meterse en el mismo saco si todas cometieron un error común, el mismo, crecieron rápidamente, sobre todo cuando la pandemia impulsó la demanda de productos y servicios digitales y resulta que se vieron sorprendidas cuando la combinación de la vuelta a la normalidad, la subida de los tipos de interés, la inflación y todo lo que nos está pasando hizo que los buenos tiempos se separaran.\n",
+    "entities": [
+      {
+        "class": "organizations",
+        "text": "empresas"
+      },
+      {
+        "class": "topics",
+        "text": "error común"
+      },
+      {
+        "class": "topics",
+        "text": "pandemia"
+      },
+      {
+        "class": "topics",
+        "text": "demanda de productos y servicios digitales"
+      },
+      {
+        "class": "topics",
+        "text": "vuelta a la normalidad"
+      },
+      {
+        "class": "topics",
+        "text": "subida de los tipos de interés"
+      },
+      {
+        "class": "topics",
+        "text": "inflación"
+      },
+      {
+        "class": "topics",
+        "text": "buenos tiempos"
+      }
+    ]
+  },
+  {
+    "text": "A meta, además, la apuesta por limpiar su imagen con lo del metaverso le ha salido realmente fatal, porque no hay metaverso donde estar ni metaverso que inventar ni nada por el estilo.\n",
+    "entities": [
+      {
+        "class": "topics",
+        "text": "metaverso"
+      },
+      {
+        "class": "topics",
+        "text": "metaverso"
+      },
+      {
+        "class": "topics",
+        "text": "metaverso"
+      }
+    ]
+  },
+  {
+    "text": "Muchos creyeron que esta revolución industrial tecnológica era para siempre, pero las tres anteriores que vivimos como humanidad no lo fueron.\n",
+    "entities": [
+      {
+        "class": "topics",
+        "text": "revolución industrial tecnológica"
+      },
+      {
+        "class": "topics",
+        "text": "tres anteriores"
+      }
+    ]
+  },
+  {
+    "text": "Tras crisis como esta siempre hubo una revolución industrial, pero tras esta también siempre viene un tiempo de ajustes duros.\n",
+    "entities": [
+      {
+        "class": "topics",
+        "text": "crisis"
+      },
+      {
+        "class": "topics",
+        "text": "revolución industrial"
+      },
+      {
+        "class": "topics",
+        "text": "ajustes duros"
+      }
+    ]
+  },
+  {
+    "text": "Nada es para siempre, ni en Silicon Valley.\n",
+    "entities": [
+      {
+        "class": "places",
+        "text": "Silicon Valley"
+      }
+    ]
+  },
+  {
+    "text": "Como decía Matt Weiberger, en un artículo reciente en el Business Insider decía sobre este tema, nada es para siempre.\n",
+    "entities": [
+      {
+        "class": "people",
+        "text": "Matt Weiberger"
+      },
+      {
+        "class": "topics",
+        "text": "este tema"
+      },
+      {
+        "class": "organizations",
+        "text": "Business Insider"
+      }
+    ]
+  },
+  {
+    "text": "Yo lo sé, tú lo sabes y tu ex lo sabe.\n",
+    "entities": [
+      {
+        "class": "people",
+        "text": "Yo"
+      },
+      {
+        "class": "people",
+        "text": "tú"
+      },
+      {
+        "class": "people",
+        "text": "tu ex"
+      }
+    ]
+  },
+  {
+    "text": "Ni las revoluciones ni, por suerte, las crisis son para siempre.\n",
+    "entities": [
+      {
+        "class": "topics",
+        "text": "revoluciones"
+      },
+      {
+        "class": "topics",
+        "text": "crisis"
+      }
+    ]
+  },
+  {
+    "text": "Os espero el lunes, hay mucho tema acumulado.",
+    "entities": [
+      {
+        "class": "dates",
+        "text": "lunes"
+      }
+    ]
+  }
+]

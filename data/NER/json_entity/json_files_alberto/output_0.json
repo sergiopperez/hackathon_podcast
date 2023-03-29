@@ -1,0 +1,1834 @@
+[
+  {
+    "text": "A ver, voy a decir yo las tres mejores históricas, objetivas y luego mis tres favoritas que van cambiando, o sea, mis tres favoritas cada semana tengo diferentes, también es verdad que creo que cuando los hablamos de esto voy a decir otras, porque cada semana cambio, pero bueno, tengo unas 20 que siempre son las mismas.\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": "yo"
+      },
+      {
+        "class": "book names",
+        "text": "las tres mejores históricas"
+      },
+      {
+        "class": "book names",
+        "text": "mis tres favoritas"
+      },
+      {
+        "class": "book names",
+        "text": "otras"
+      }
+    ]
+  },
+  {
+    "text": "Pero te encanta en rollo que te lo pasas bien bien bien.\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": ""
+      },
+      {
+        "class": "book names",
+        "text": ""
+      },
+      {
+        "class": "film names",
+        "text": ""
+      },
+      {
+        "class": "videogame names",
+        "text": ""
+      },
+      {
+        "class": "song names",
+        "text": ""
+      },
+      {
+        "class": "places",
+        "text": ""
+      },
+      {
+        "class": "dates",
+        "text": ""
+      },
+      {
+        "class": "organizations",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "text": "Creo que la estructura de Guillaume con varios puntos de vista es muy moderno para su época, o sea, ha aguantado muy, sube esta película ahora que parece hecha ahora, por cómo está contada el misterio en torno a Rosebud, a esa palabra y como la película da un flashback para atrás, sí, un flashback, efectivamente, y te cuenta la historia del personaje, pero el punto de vista de la persona que le conocieron, no te cuenta la historia del tío como tal, te cuentan lo que ellos creyeron que era él, y me parece\n",
+    "entities": [
+      {
+        "class": "film names",
+        "text": "Rosebud"
+      },
+      {
+        "class": "people names",
+        "text": "Guillaume"
+      }
+    ]
+  },
+  {
+    "text": "muy, muy interesante, y a nivel de imagen y tal es increíble.\n",
+    "entities": [
+      {
+        "class": "places",
+        "text": "nivel de imagen"
+      },
+      {
+        "class": "adjectives",
+        "text": "muy"
+      },
+      {
+        "class": "adjectives",
+        "text": "muy"
+      },
+      {
+        "class": "adjectives",
+        "text": "increíble"
+      }
+    ]
+  },
+  {
+    "text": "O sea, no me aburre, no me gusta mucho.\n",
+    "entities": [
+      {
+        "class": "None",
+        "text": "O sea"
+      },
+      {
+        "class": "None",
+        "text": "no me aburre"
+      },
+      {
+        "class": "None",
+        "text": "no me gusta mucho"
+      }
+    ]
+  },
+  {
+    "text": "Pues mira que... hostia, pues a mí me... como peli me aburre, vamos a ver una peli divertida, o sea, yo la he visto un par de veces y la veo por curiosidad, por qué buena es, ¿no?\n",
+    "entities": [
+      {
+        "class": "film names",
+        "text": "una peli divertida"
+      },
+      {
+        "class": "film names",
+        "text": "la he visto un par de veces"
+      }
+    ]
+  },
+  {
+    "text": "A mí me pasa un poco con 2001 de Seana y Espacio, realmente me cuesta divertirme, con 2001, te tengo que ser sincero, hay partes de la película de las que estoy.\n",
+    "entities": [
+      {
+        "class": "film names",
+        "text": "2001"
+      },
+      {
+        "class": "people names",
+        "text": "Seana"
+      },
+      {
+        "class": "places",
+        "text": "Espacio"
+      }
+    ]
+  },
+  {
+    "text": "¿Es para divertirse 2001 tampoco?\n",
+    "entities": [
+      {
+        "class": "film names",
+        "text": "2001"
+      }
+    ]
+  },
+  {
+    "text": "No, es para pensar, para entrar en el mundo, hay momentos divertidos, el momento de Hal es realmente esa sección de la película, es la más normal, es la más que tiene un inicio, astronautas en una nave, nudo, el robot se entera que lo quieren apagar porque tal, final, destrucción, tiene lógica.\n",
+    "entities": [
+      {
+        "class": "film names",
+        "text": "Hal"
+      },
+      {
+        "class": "places",
+        "text": "nave"
+      },
+      {
+        "class": "organizations",
+        "text": "robot"
+      }
+    ]
+  },
+  {
+    "text": "Por ejemplo, el tema de los homínidos, a mí se me hace horrible ese momento, y el monolito final y la habitación, tendría que drogarme más para verla.\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": "Por ejemplo"
+      },
+      {
+        "class": "book names",
+        "text": "el tema de los homínidos"
+      },
+      {
+        "class": "places",
+        "text": "ese momento"
+      },
+      {
+        "class": "places",
+        "text": "el monolito final"
+      },
+      {
+        "class": "places",
+        "text": "la habitación"
+      }
+    ]
+  },
+  {
+    "text": "Yo entiendo que la película puede chocar en este caso, pero también hay que ver un poco... Y es genial, es maravilloso, ¿eh?\n",
+    "entities": [
+      {
+        "class": "film names",
+        "text": "película"
+      }
+    ]
+  },
+  {
+    "text": "Sí, también hay que ver con qué predisposición vos las películas, si es para pasar un rato entretenidos, no te pongas una película de Tarkovsky, ni de Orson Welles, ni de tal, de una película pues, ve Sulander, ve John Wick, ¿sabes?\n",
+    "entities": [
+      {
+        "class": "film names",
+        "text": "Tarkovsky"
+      },
+      {
+        "class": "film names",
+        "text": "Orson Welles"
+      },
+      {
+        "class": "film names",
+        "text": "Sulander"
+      },
+      {
+        "class": "film names",
+        "text": "John Wick"
+      }
+    ]
+  },
+  {
+    "text": "Pachad un rato, hay que saber un poco, diferenciar eso, vale, cuenta.\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": "Pachad"
+      },
+      {
+        "class": "places",
+        "text": "un rato"
+      },
+      {
+        "class": "dates",
+        "text": "hay que saber un poco"
+      },
+      {
+        "class": "organizations",
+        "text": "diferenciar eso"
+      },
+      {
+        "class": "people names",
+        "text": "vale"
+      },
+      {
+        "class": "people names",
+        "text": "cuenta"
+      }
+    ]
+  },
+  {
+    "text": "Pues Seana Kane, por todo lo que trajo, luego aquí ya tengo dudas, pero creo que el padrino, aunque creo que a nivel, el padrino 1, no la 2, aunque la 2 es buenísima, el padrino 1.\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": "Seana Kane"
+      },
+      {
+        "class": "film names",
+        "text": "El Padrino"
+      },
+      {
+        "class": "film names",
+        "text": "El Padrino 1"
+      },
+      {
+        "class": "film names",
+        "text": "El Padrino 2"
+      }
+    ]
+  },
+  {
+    "text": "Me gusta más la 2, a mí me gusta más la 2, me parece más divertida las escenas, pero creo que la primera del padrino también sienta cátedra en cuanto a interpretación, creo que Marlon Brando es quizás el mejor actor de la historia, lo digo de verdad, creo que es el mejor.\n",
+    "entities": [
+      {
+        "class": "film names",
+        "text": "La 2"
+      },
+      {
+        "class": "film names",
+        "text": "La primera del padrino"
+      },
+      {
+        "class": "people names",
+        "text": "Marlon Brando"
+      }
+    ]
+  },
+  {
+    "text": "Hay muchos que es buenísimos, Cary Grant me encanta también, pero es que Marlon Brando tenía una naturalidad y una, estaba loco y estaba chalao y luego era un desastre rodando, pero cuando acción y empezaba, es que se te caen los cojones, es que no puedes decir más que… Lo que tenga a Pocalips que ha hablado es increíble.\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": "Cary Grant"
+      },
+      {
+        "class": "people names",
+        "text": "Marlon Brando"
+      },
+      {
+        "class": "book names",
+        "text": "Pocalips"
+      }
+    ]
+  },
+  {
+    "text": "No, no, a Pocalips que lo querían matar… Es mi favorita de Coppola, por cierto, me gusta más que el padrino, que el padrino 2 y que toda la demás, me parece una brama extra.\n",
+    "entities": [
+      {
+        "class": "film names",
+        "text": "Pocalips"
+      },
+      {
+        "class": "film names",
+        "text": "Coppola"
+      },
+      {
+        "class": "film names",
+        "text": "El Padrino"
+      },
+      {
+        "class": "film names",
+        "text": "El Padrino 2"
+      }
+    ]
+  },
+  {
+    "text": "No, no, a Pocalips que es espectacular, es para verla 20 veces, no, no, es un 10 absoluto.\n",
+    "entities": [
+      {
+        "class": "film names",
+        "text": "Pocalips"
+      },
+      {
+        "class": "dates",
+        "text": "20 veces"
+      }
+    ]
+  },
+  {
+    "text": "Y luego como tercera, mira, voy a que me incidir contigo, vértigo, creo que también es una película que ha envejecido increíble, que es súper divertida además, un argumento brutal y que es que también, Hitchcock, es que estamos hablando de dioses, Hitchcock es un dios, era un hijo de puta y una mala persona, y era un acosador y un auténtico diablo con las mujeres en set… Pero bueno, las cosas como son, esto es un debate que ya he hablado, de que a mí me gusta la artista, lo que hagan su vida privada no es\n",
+    "entities": [
+      {
+        "class": "film names",
+        "text": "Vértigo"
+      },
+      {
+        "class": "people names",
+        "text": "Hitchcock"
+      }
+    ]
+  },
+  {
+    "text": "mi problema, que haga lo que quiera, yo disfruto la artista.\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": "artista"
+      },
+      {
+        "class": "song names",
+        "text": "lo que quiera"
+      }
+    ]
+  },
+  {
+    "text": "Luego, gustos personales, Blade Runner No.\n",
+    "entities": [
+      {
+        "class": "film names",
+        "text": "Blade Runner"
+      }
+    ]
+  },
+  {
+    "text": "1 indiscutible, esta no ha cambiado nunca, las otras van variando, pero es que Blade Runner para mí es dios, es la película que más veces he visto, la que más disfruto, no me canso, me encanta su inventación, sus actores, su diálogo, dios.\n",
+    "entities": [
+      {
+        "class": "film names",
+        "text": "Blade Runner"
+      },
+      {
+        "class": "people names",
+        "text": "Dios"
+      }
+    ]
+  },
+  {
+    "text": "Iba con buena predisposición, yo no soy de los típicos haters, no, no, yo me gusta dar una oportunidad.\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": "haters"
+      },
+      {
+        "class": "places",
+        "text": "oportunidad"
+      }
+    ]
+  },
+  {
+    "text": "Iba con… Jax Villeneuve me gusta mucho.\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": "Jax Villeneuve"
+      }
+    ]
+  },
+  {
+    "text": "Aunque a mí, de Arrival, se me hizo pesadilla, te lo reconozco, la gente dice que es la polla, pero a mí, buf, se me hizo densa, se me hizo bola en la boca, la llegada, lo que propone, pero que al final no cierra bien las películas, creo.\n",
+    "entities": [
+      {
+        "class": "film names",
+        "text": "Arrival"
+      },
+      {
+        "class": "film names",
+        "text": "La llegada"
+      }
+    ]
+  },
+  {
+    "text": "Un ejemplo, a nivel visual, es un pepino, sin creer.\n",
+    "entities": [
+      {
+        "class": "places",
+        "text": "Un ejemplo"
+      },
+      {
+        "class": "organizations",
+        "text": "a nivel visual"
+      },
+      {
+        "class": "people names",
+        "text": "es un pepino"
+      },
+      {
+        "class": "organizations",
+        "text": "sin creer"
+      }
+    ]
+  },
+  {
+    "text": "Pero la historia, por sí, a ver, esa tontuna como un piano, es un desfile de Ryan Gosling poniendo caras de Ryan Gosling durante dos horas, ¿no?\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": "Ryan Gosling"
+      }
+    ]
+  },
+  {
+    "text": "Es que Ryan Gosling también es un actor que a mí no me entra mucho, o sea, me cae muy bien porque la he visto en entrevistas y me parece muy simpático.\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": "Ryan Gosling"
+      }
+    ]
+  },
+  {
+    "text": "Pero como actores que tienen una puta cara, tío.\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": "Tío"
+      }
+    ]
+  },
+  {
+    "text": "Y lo veo so so en todos los papeles, ¿eh?\n",
+    "entities": [
+      {
+        "class": "None",
+        "text": "Y lo veo so so en todos los papeles, ¿eh?"
+      }
+    ]
+  },
+  {
+    "text": "Me cuesta, me cuesta empatizar y a mí la... Cuando da un papel de so so, tipo drive, pues, cuela.\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": "Cuando"
+      },
+      {
+        "class": "book names",
+        "text": "Drive"
+      }
+    ]
+  },
+  {
+    "text": "Lo que debería interpretar es el problema.\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": "Lo"
+      },
+      {
+        "class": "places",
+        "text": "que"
+      },
+      {
+        "class": "organizations",
+        "text": "debería"
+      },
+      {
+        "class": "people names",
+        "text": "interpretar"
+      },
+      {
+        "class": "people names",
+        "text": "es"
+      },
+      {
+        "class": "people names",
+        "text": "el"
+      },
+      {
+        "class": "people names",
+        "text": "problema"
+      }
+    ]
+  },
+  {
+    "text": "Drive lo hace perfecto, o sea, el palillo, le queda mejor el palillo casi que a Estalón, que a Cobra.\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": "Estalón"
+      },
+      {
+        "class": "people names",
+        "text": "Cobra"
+      }
+    ]
+  },
+  {
+    "text": "Es un enfermo de este tipo, de cien, eso sí.\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": "Es un enfermo"
+      },
+      {
+        "class": "places",
+        "text": "de este tipo"
+      },
+      {
+        "class": "dates",
+        "text": "de cien"
+      },
+      {
+        "class": "organizations",
+        "text": "eso sí"
+      }
+    ]
+  },
+  {
+    "text": "A mí me flipa Cobra, o sea, Cobra para mí es de lo que es esa época, Caspa, pero Caspa bien hecha.\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": "Cobra"
+      },
+      {
+        "class": "people names",
+        "text": "Caspa"
+      }
+    ]
+  },
+  {
+    "text": "John Cobret y esa semana bellosa.\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": "John Cobret"
+      },
+      {
+        "class": "dates",
+        "text": "esa semana"
+      }
+    ]
+  },
+  {
+    "text": "Pues... A mí no me gustó la segunda parte.\n",
+    "entities": [
+      {
+        "class": "None",
+        "text": "Pues..."
+      },
+      {
+        "class": "None",
+        "text": "A"
+      },
+      {
+        "class": "None",
+        "text": "mí"
+      },
+      {
+        "class": "None",
+        "text": "no"
+      },
+      {
+        "class": "None",
+        "text": "me"
+      },
+      {
+        "class": "None",
+        "text": "gustó"
+      },
+      {
+        "class": "None",
+        "text": "la"
+      },
+      {
+        "class": "None",
+        "text": "segunda"
+      },
+      {
+        "class": "None",
+        "text": "parte."
+      }
+    ]
+  },
+  {
+    "text": "Blade Runner creo que era innecesaria, creo que Blade Runner es una película que termina.\n",
+    "entities": [
+      {
+        "class": "film names",
+        "text": "Blade Runner"
+      },
+      {
+        "class": "film names",
+        "text": "Blade Runner"
+      }
+    ]
+  },
+  {
+    "text": "El argumento me parece estúpido.\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": ""
+      },
+      {
+        "class": "book names",
+        "text": ""
+      },
+      {
+        "class": "film names",
+        "text": ""
+      },
+      {
+        "class": "videogame names",
+        "text": ""
+      },
+      {
+        "class": "song names",
+        "text": ""
+      },
+      {
+        "class": "places",
+        "text": ""
+      },
+      {
+        "class": "dates",
+        "text": ""
+      },
+      {
+        "class": "organizations",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "text": "Hay muchos para mí agujeros de guión como un agujero negro de interstellar que dices, no tiene lógica que hagan esto.\n",
+    "entities": [
+      {
+        "class": "film names",
+        "text": "Interstellar"
+      }
+    ]
+  },
+  {
+    "text": "Sí, los actores muy bien, ya lo le tome encanta, fenómeno, haga lo que haga, incluso el Joker.\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": "Joker"
+      }
+    ]
+  },
+  {
+    "text": "Fue una mierda a su Joker, pero es que lo hace muy bien.\n",
+    "entities": [
+      {
+        "class": "film names",
+        "text": "Joker"
+      }
+    ]
+  },
+  {
+    "text": "Y es el guión que le dieron, o sea, es la historia que le dieron, otra cosa es vete con el director.\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": "director"
+      }
+    ]
+  },
+  {
+    "text": "Como pequeño punto de luz en esto de Blade Runner.\n",
+    "entities": [
+      {
+        "class": "film names",
+        "text": "Blade Runner"
+      }
+    ]
+  },
+  {
+    "text": "A mí tampoco me apasionó, es la primera que veo que está bien hecha, pero que no me interesa.\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": "A mí"
+      },
+      {
+        "class": "book names",
+        "text": "primera"
+      }
+    ]
+  },
+  {
+    "text": "Hay un cortometraje que se hizo como promoción, como parte de la promoción de la película que dijo Shin Chiro Watanabe, que es el director de K-Wave Vivo, se llama, en Pleather Runner apagó o algo así, es un corto de 10 minutos, es una puta maravilla.\n",
+    "entities": [
+      {
+        "class": "film names",
+        "text": "K-Wave Vivo"
+      },
+      {
+        "class": "film names",
+        "text": "Pleather Runner apagó"
+      },
+      {
+        "class": "people names",
+        "text": "Shin Chiro Watanabe"
+      }
+    ]
+  },
+  {
+    "text": "O sea, solamente porque este corto exista, me parece que en la película saben que la hayan hecho.\n",
+    "entities": [
+      {
+        "class": "film names",
+        "text": "película"
+      },
+      {
+        "class": "people names",
+        "text": "Saben"
+      }
+    ]
+  },
+  {
+    "text": "Pues lo veré, lo veré porque yo salí de la película triste, yo iba con mucha expectativa y de verdad es que yo iba contento, pero ya le hecho que el Scott no dirigiera, ya me dio el primer miedo en el cuerpo y luego la utilización de Harrison Ford no me gusta.\n",
+    "entities": [
+      {
+        "class": "film names",
+        "text": "la película triste"
+      },
+      {
+        "class": "people names",
+        "text": "Scott"
+      },
+      {
+        "class": "people names",
+        "text": "Harrison Ford"
+      }
+    ]
+  },
+  {
+    "text": "Y le pasa a Harrison Ford cuando le reutilizan, porque en Star Wars qué basura el papel que hace el retorno.\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": "Harrison Ford"
+      },
+      {
+        "class": "film names",
+        "text": "Star Wars"
+      }
+    ]
+  },
+  {
+    "text": "En Blade Runner, pobretico, será que no tiene culpa, pero ¿por qué le dan estos retornos de mierda?\n",
+    "entities": [
+      {
+        "class": "film names",
+        "text": "Blade Runner"
+      },
+      {
+        "class": "people names",
+        "text": "pobretico"
+      }
+    ]
+  },
+  {
+    "text": "Indiana Jones 4 fatal, que aunque él no es lo peor, él es salvable.\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": "Indiana Jones"
+      },
+      {
+        "class": "film names",
+        "text": "Fatal"
+      }
+    ]
+  },
+  {
+    "text": "Pero… La gente que te veo no supongo.\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": "La gente"
+      }
+    ]
+  },
+  {
+    "text": "Un remake o una secuela de una película clásica y no puede ser actor principal, aunque sea un cameo, la gente va a lanzarse de encima.\n",
+    "entities": [
+      {
+        "class": "film names",
+        "text": "remake"
+      },
+      {
+        "class": "film names",
+        "text": "secuela"
+      },
+      {
+        "class": "film names",
+        "text": "película clásica"
+      },
+      {
+        "class": "people names",
+        "text": "actor principal"
+      },
+      {
+        "class": "people names",
+        "text": "cameo"
+      },
+      {
+        "class": "people names",
+        "text": "gente"
+      }
+    ]
+  },
+  {
+    "text": "Blade Runner 2 la hubiera convertido, ¿ya qué la vas a hacer?\n",
+    "entities": [
+      {
+        "class": "film names",
+        "text": "Blade Runner 2"
+      },
+      {
+        "class": "videogame names",
+        "text": "la hubiera convertido"
+      }
+    ]
+  },
+  {
+    "text": "Pero que Harrison Ford no es un inválido, que no es de un demente, que puede actuar.\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": "Harrison Ford"
+      },
+      {
+        "class": "book names",
+        "text": "None"
+      }
+    ]
+  },
+  {
+    "text": "¿Por qué una persona de 70 años no puede ser protagonista de una película de blockbuster?\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": "70 años"
+      },
+      {
+        "class": "film names",
+        "text": "blockbuster"
+      }
+    ]
+  },
+  {
+    "text": "Me cago la puta, es que perfectamente Harrison Ford solo te hace una película con un buen guión.\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": "Harrison Ford"
+      },
+      {
+        "class": "film names",
+        "text": "una película"
+      }
+    ]
+  },
+  {
+    "text": "No me gustó, y Blade Runner 1, uno de los nuestros de Goodfellas, para mí la obra maestra de Scorsese, y luego ya ahí voy variando mucho.\n",
+    "entities": [
+      {
+        "class": "film names",
+        "text": "Blade Runner 1"
+      },
+      {
+        "class": "film names",
+        "text": "Goodfellas"
+      },
+      {
+        "class": "film names",
+        "text": "Scorsese"
+      }
+    ]
+  },
+  {
+    "text": "Un día te puedo decir la jungla de cristal, otro día te puedo decir alguna de Tarantino, y en este caso voy a ir con Tarantino, voy a ir con… quizás no es la más típica, pero a mí Maditos Bastardos es para mí su mejor peli, aunque yo Parfixion Bresa por Docs la he visto veinte veces, pero es que Maditos Bastardos son como varios cortometrajes, porque al final tienen varias secciones, y qué maravilla, tío, es que tiene algunos momentos en el del bar cuando están debajo en la posada esa… Espectacular,\n",
+    "entities": [
+      {
+        "class": "film names",
+        "text": "La Jungla de Cristal"
+      },
+      {
+        "class": "film names",
+        "text": "Tarantino"
+      },
+      {
+        "class": "film names",
+        "text": "Maditos Bastardos"
+      },
+      {
+        "class": "film names",
+        "text": "Parfixion Bresa"
+      },
+      {
+        "class": "film names",
+        "text": "Docs"
+      }
+    ]
+  },
+  {
+    "text": "Y empiezan a jugar al juego de… Sí, sí, sí.\n",
+    "entities": [
+      {
+        "class": "videogame names",
+        "text": "juego de"
+      }
+    ]
+  },
+  {
+    "text": "Fíjate que creí que vas a hacer Yaki Brown, que para mí es una maravilla el peli, que la gente no tiene en consideración, o salió en mitad de las buenas y está diciendo, bueno, es buenísima ya que Yaki Brown fue después de Parfixion.\n",
+    "entities": [
+      {
+        "class": "film names",
+        "text": "Yaki Brown"
+      },
+      {
+        "class": "film names",
+        "text": "Parfixion"
+      }
+    ]
+  },
+  {
+    "text": "A ver, es fácil quedar opacado por Parfixion, es muy fácil, ¿vale?\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": "Parfixion"
+      },
+      {
+        "class": "book names",
+        "text": "Parfixion"
+      }
+    ]
+  },
+  {
+    "text": "Pero me parece una película maravillosa, o sea, de las mejores de Tarantino, mucho mejor que las últimas, que no están mal, pero Yaki Brown para mí es de la top, top de este hombre.\n",
+    "entities": [
+      {
+        "class": "film names",
+        "text": "Tarantino"
+      },
+      {
+        "class": "film names",
+        "text": "Yaki Brown"
+      }
+    ]
+  },
+  {
+    "text": "O sea, Parfixion… La escena de venir en el parking… Joder, es que la película es buenísima en general, es muy, muy buena, un poco larga, pero tiene un ritmo de que flip, Tarantino no aburre nunca.\n",
+    "entities": [
+      {
+        "class": "film names",
+        "text": "Parfixion"
+      },
+      {
+        "class": "film names",
+        "text": "Tarantino"
+      }
+    ]
+  },
+  {
+    "text": "Sí, no se hace, no se hace aburrida, por eso… Como a mí, por ejemplo, la era sea una vez en Hollywood, ya que hablamos de las últimas, quizás es la que menos me ha gustado de él.\n",
+    "entities": [
+      {
+        "class": "film names",
+        "text": "Una vez en Hollywood"
+      },
+      {
+        "class": "people names",
+        "text": "Quentin Tarantino"
+      }
+    ]
+  },
+  {
+    "text": "Death Proof, sí, me gustó, o sea, yo salí al cine pero pensé, como no te gusta el cine americano de los años 50, vas a querer morirte hasta el final, porque es que es lenta, pasan pocas cosas… A mí es que justo me gusta más la parte de los personajes, o sea, cómo cuenta la historia detrás de las cámaras, pero no porque se meten en el cine, porque podría ser una película ambientada en la bolsa o en cualquier otro tipo de disciplina y será la misma, es un tío que está intentando triunfar y no puede, por lo\n",
+    "entities": [
+      {
+        "class": "film names",
+        "text": "Death Proof"
+      },
+      {
+        "class": "places",
+        "text": "cine"
+      },
+      {
+        "class": "dates",
+        "text": "años 50"
+      },
+      {
+        "class": "organizations",
+        "text": "bolsa"
+      }
+    ]
+  },
+  {
+    "text": "que sea, y las partes de Brad Pitt me parecen de la mejor Tarantino en su historia.\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": "Brad Pitt"
+      },
+      {
+        "class": "film names",
+        "text": "Tarantino"
+      }
+    ]
+  },
+  {
+    "text": "Y fíjate que lo que más me sobra, sé que es una cosa que va a contracorriente, pero lo que más me sobra es la parte final con más bombástico, más gore, ¿sabes?\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": "Nadie"
+      },
+      {
+        "class": "book names",
+        "text": "Ninguno"
+      },
+      {
+        "class": "film names",
+        "text": "Ninguno"
+      },
+      {
+        "class": "videogame names",
+        "text": "Ninguno"
+      },
+      {
+        "class": "song names",
+        "text": "Ninguno"
+      },
+      {
+        "class": "places",
+        "text": "Ninguno"
+      },
+      {
+        "class": "dates",
+        "text": "Ninguno"
+      },
+      {
+        "class": "organizations",
+        "text": "Ninguno"
+      }
+    ]
+  },
+  {
+    "text": "No hablaremos de lo que pasa, pero la parte final, a mí sí que me gustó, es muy Tarantino.\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": "Tarantino"
+      },
+      {
+        "class": "film names",
+        "text": "la parte final"
+      }
+    ]
+  },
+  {
+    "text": "Pero después de dos horas, meterte estos 15 minutos en plan, sigo aquí, es un poco raro, ¿no?\n",
+    "entities": [
+      {
+        "class": "dates",
+        "text": "dos horas"
+      },
+      {
+        "class": "dates",
+        "text": "15 minutos"
+      }
+    ]
+  },
+  {
+    "text": "Bueno, esto, sí, es como muy gratuito, porque además rompe con una película seria, una película donde realmente el toqué, no es una comedia, aunque te pueda hacer reír, no es un drama, aunque tocas temas de tristeza, pero el último es como ¡Vamos, fiesta!\n",
+    "entities": [
+      {
+        "class": "film names",
+        "text": "una película seria"
+      },
+      {
+        "class": "film names",
+        "text": "una película donde realmente el toqué"
+      },
+      {
+        "class": "film names",
+        "text": "el último"
+      }
+    ]
+  },
+  {
+    "text": "A mí sí me gustó, a mí sí me gustó, porque además tenía mucho hype de cómo iban a tocar ese tema.\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": "A mí"
+      },
+      {
+        "class": "people names",
+        "text": "mí"
+      },
+      {
+        "class": "song names",
+        "text": "tema"
+      }
+    ]
+  },
+  {
+    "text": "Bueno, eso no es spoiler, esto es una historia real, que esta película está, hay una parte que está basada en el asesinato de la mujer de Roman Polanski, que era un actriz superfamosa, que es Sharon Tate, que es una de las semi-protagonistas de la película, aunque no habla, no tiene, creo que ni una frase, o tres, tres, y claro, ya estaba embarazada.\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": "Roman Polanski"
+      },
+      {
+        "class": "people names",
+        "text": "Sharon Tate"
+      },
+      {
+        "class": "film names",
+        "text": "la película"
+      }
+    ]
+  },
+  {
+    "text": "Entonces, esa historia de Charles Manson, como en Charles Manson, infiltró a gente ahí, la asesinaron, y además se ve que le desgarraron el estómago increíble, ¿no?\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": "Charles Manson"
+      },
+      {
+        "class": "places",
+        "text": "ahí"
+      }
+    ]
+  },
+  {
+    "text": "A mí me gusta tocar esto, no os diremos cómo, pero… A mí por eso.\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": "A mí"
+      },
+      {
+        "class": "people names",
+        "text": "os"
+      }
+    ]
+  },
+  {
+    "text": "Hablando de Manson, que se me olvidó antes de comentarla, manhunter, o sea, manhunter, ¿no?\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": "Manson"
+      },
+      {
+        "class": "book names",
+        "text": "Manhunter"
+      }
+    ]
+  },
+  {
+    "text": "Manhunter de Netflix, seriote, espectacular, ¿eh?\n",
+    "entities": [
+      {
+        "class": "film names",
+        "text": "Manhunter"
+      },
+      {
+        "class": "organizations",
+        "text": "Netflix"
+      }
+    ]
+  },
+  {
+    "text": "Me parece maravilloso, también.\n",
+    "entities": [
+      {
+        "class": "None",
+        "text": "Me"
+      },
+      {
+        "class": "None",
+        "text": "parece"
+      },
+      {
+        "class": "None",
+        "text": "maravilloso"
+      },
+      {
+        "class": "None",
+        "text": "también"
+      },
+      {
+        "class": "None",
+        "text": "."
+      }
+    ]
+  },
+  {
+    "text": "Cada episodio es una mini-perícula, o sea… Sí, es increíble.\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": ""
+      },
+      {
+        "class": "book names",
+        "text": ""
+      },
+      {
+        "class": "film names",
+        "text": ""
+      },
+      {
+        "class": "videogame names",
+        "text": ""
+      },
+      {
+        "class": "song names",
+        "text": ""
+      },
+      {
+        "class": "places",
+        "text": ""
+      },
+      {
+        "class": "dates",
+        "text": ""
+      },
+      {
+        "class": "organizations",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "text": "O sea… No, es que eso es… Ya me flipé a Zoviac, pero esta serie es casi igual de buena.\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": "Zoviac"
+      },
+      {
+        "class": "book names",
+        "text": "Serie"
+      }
+    ]
+  },
+  {
+    "text": "¿Cuál es tu peli favorita, David Fincher?\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": "David Fincher"
+      },
+      {
+        "class": "film names",
+        "text": "peli"
+      }
+    ]
+  },
+  {
+    "text": "Es que se me… Te diré… Sí, me parece una buena maestra.\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": "maestra"
+      }
+    ]
+  },
+  {
+    "text": "Yo diré una que no es muy famosa de Game.\n",
+    "entities": [
+      {
+        "class": "videogame names",
+        "text": "Game"
+      }
+    ]
+  },
+  {
+    "text": "No hablas casi nadie de ella, y a mí, tío, me marco.\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": "Tío"
+      }
+    ]
+  },
+  {
+    "text": "Porque tiene uno de los mejores giros argumentales de la historia.\n",
+    "entities": [
+      {
+        "class": "book names",
+        "text": "giros argumentales"
+      }
+    ]
+  },
+  {
+    "text": "O sea, lo pongo al nivel de una peli que se llama, bueno, el golpe de Robert… Oh, buenísima.\n",
+    "entities": [
+      {
+        "class": "film names",
+        "text": "El Golpe de Robert"
+      }
+    ]
+  },
+  {
+    "text": "Ya no vamos al momento final… Bueno, los momentos finales es wow.\n",
+    "entities": [
+      {
+        "class": "song names",
+        "text": "Momento Final"
+      },
+      {
+        "class": "videogame names",
+        "text": "Momentos finales"
+      }
+    ]
+  },
+  {
+    "text": "Pues el Game pasa también muy así, no te lo esperas, y me parece muy, muy, muy buena.\n",
+    "entities": [
+      {
+        "class": "videogame names",
+        "text": "Game"
+      }
+    ]
+  },
+  {
+    "text": "Es que Fincher era muy jugador, ¿eh?\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": "Fincher"
+      },
+      {
+        "class": "organizations",
+        "text": "Es"
+      }
+    ]
+  },
+  {
+    "text": "Y yo… Fincher los no vendía entre seven, con el final que… hostia el final.\n",
+    "entities": [
+      {
+        "class": "film names",
+        "text": "Seven"
+      },
+      {
+        "class": "people names",
+        "text": "Fincher"
+      }
+    ]
+  },
+  {
+    "text": "De Game, luego la del club de la lucha, que también tiene un final que te folla la mente directamente.\n",
+    "entities": [
+      {
+        "class": "film names",
+        "text": "Game"
+      },
+      {
+        "class": "videogame names",
+        "text": "Club de la Lucha"
+      }
+    ]
+  },
+  {
+    "text": "Si lo ven, Brad Pitt en esa película se ganó el altar.\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": "Brad Pitt"
+      },
+      {
+        "class": "film names",
+        "text": "esa película"
+      }
+    ]
+  },
+  {
+    "text": "Es un actor increíble, Brad Pitt.\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": "Brad Pitt"
+      }
+    ]
+  },
+  {
+    "text": "Y Fincher, cuando lo mueve bien… Me gustó mucho.\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": "Fincher"
+      },
+      {
+        "class": "film names",
+        "text": "Me gustó mucho"
+      }
+    ]
+  },
+  {
+    "text": "Ah, mi zodiac me parece maravillosa, me parece flipante, que tenga los huevos de no decir nada y se limitarse a la investigación para hacer redondo.\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": "Ah"
+      },
+      {
+        "class": "book names",
+        "text": "Zodiac"
+      },
+      {
+        "class": "places",
+        "text": "Redondo"
+      }
+    ]
+  },
+  {
+    "text": "Sí, porque se ciñen a la realidad.\n",
+    "entities": [
+      {
+        "class": "None",
+        "text": "Sí"
+      },
+      {
+        "class": "None",
+        "text": "porque"
+      },
+      {
+        "class": "None",
+        "text": "se"
+      },
+      {
+        "class": "None",
+        "text": "ciñen"
+      },
+      {
+        "class": "None",
+        "text": "a"
+      },
+      {
+        "class": "None",
+        "text": "la"
+      },
+      {
+        "class": "None",
+        "text": "realidad"
+      },
+      {
+        "class": "None",
+        "text": "."
+      }
+    ]
+  },
+  {
+    "text": "Te deja todo abierto y tú sacas tus conclusiones.\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": ""
+      },
+      {
+        "class": "book names",
+        "text": ""
+      },
+      {
+        "class": "film names",
+        "text": ""
+      },
+      {
+        "class": "videogame names",
+        "text": ""
+      },
+      {
+        "class": "song names",
+        "text": ""
+      },
+      {
+        "class": "places",
+        "text": ""
+      },
+      {
+        "class": "dates",
+        "text": ""
+      },
+      {
+        "class": "organizations",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "text": "Es una historia que quiero contar en mi canal principal un día, la del zodiac.\n",
+    "entities": [
+      {
+        "class": "book names",
+        "text": "Zodiac"
+      }
+    ]
+  },
+  {
+    "text": "Creo que es el asesino mediático más grande que jamás se ha encontrado.\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": "asesino mediático"
+      },
+      {
+        "class": "places",
+        "text": "jamás"
+      }
+    ]
+  },
+  {
+    "text": "Podría estar vivo el día de hoy.\n",
+    "entities": [
+      {
+        "class": "dates",
+        "text": "el día de hoy"
+      }
+    ]
+  },
+  {
+    "text": "Bueno, quitando Jack The Ripper, ¿no?\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": "Jack The Ripper"
+      }
+    ]
+  },
+  {
+    "text": "Que es un poco el… Claro, ya es como él.\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": "Claro"
+      }
+    ]
+  },
+  {
+    "text": "Dentro de los realistas, entre comillas, zodiac es un personaje, es una incógnita, vamos, increíble.\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": "Zodiac"
+      },
+      {
+        "class": "book names",
+        "text": "Realistas"
+      }
+    ]
+  },
+  {
+    "text": "Bueno, porque Jack The Ripper no iba a buscarla, digamos, si la historia es real.\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": "Jack The Ripper"
+      }
+    ]
+  },
+  {
+    "text": "No iba a buscarlo mediático, se lo encontró, pero es que zodiac enviaba puzzles a la prensa en plan E. Aquí estoy.\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": "E"
+      },
+      {
+        "class": "organizations",
+        "text": "Zodiac"
+      }
+    ]
+  },
+  {
+    "text": "Y no le pudiera encontrar, tío.\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": "Tío"
+      }
+    ]
+  },
+  {
+    "text": "Tiene unos huevos… Bueno, mira la película.\n",
+    "entities": [
+      {
+        "class": "film names",
+        "text": "Mira la película"
+      }
+    ]
+  },
+  {
+    "text": "Zodiac es una película maravillosa.\n",
+    "entities": [
+      {
+        "class": "film names",
+        "text": "Zodiac"
+      }
+    ]
+  },
+  {
+    "text": "Fíjate que me recuerda un poco a la mejor de Villeneuve, que es para mí prisioneros.\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": "Villeneuve"
+      },
+      {
+        "class": "book names",
+        "text": "Prisioneros"
+      }
+    ]
+  },
+  {
+    "text": "Con Hugh Jackman Poldano, película muy buena.\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": "Hugh Jackman"
+      },
+      {
+        "class": "film names",
+        "text": "Poldano"
+      }
+    ]
+  },
+  {
+    "text": "Para mí, lo mejor que ha sido un película con diferencia.\n",
+    "entities": [
+      {
+        "class": "film names",
+        "text": "película"
+      }
+    ]
+  },
+  {
+    "text": "Y bueno, mira, dentro de las películas Mindfuck, luego comentaremos tal, pero bueno, Enemy de Villeneuve también me parece una película Mindfuck muy interesante.\n",
+    "entities": [
+      {
+        "class": "film names",
+        "text": "Enemy de Villeneuve"
+      }
+    ]
+  },
+  {
+    "text": "Con Jack The Ripper… Pero Enemy no lo he visto.\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": "Jack The Ripper"
+      },
+      {
+        "class": "film names",
+        "text": "Enemy"
+      }
+    ]
+  },
+  {
+    "text": "Hostia, pues… La tengo que ver también.\n",
+    "entities": [
+      {
+        "class": "none",
+        "text": "Hostia"
+      },
+      {
+        "class": "none",
+        "text": "pues"
+      },
+      {
+        "class": "none",
+        "text": "La"
+      },
+      {
+        "class": "none",
+        "text": "tengo"
+      },
+      {
+        "class": "none",
+        "text": "que"
+      },
+      {
+        "class": "none",
+        "text": "ver"
+      },
+      {
+        "class": "none",
+        "text": "también"
+      },
+      {
+        "class": "none",
+        "text": "."
+      }
+    ]
+  },
+  {
+    "text": "Es una de las películas que tengo ahí marcaditas.\n",
+    "entities": [
+      {
+        "class": "film names",
+        "text": "películas"
+      }
+    ]
+  },
+  {
+    "text": "Es tan… porque Jack The Ripper tiene algunas películas que agárrate, brother.\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": "Jack The Ripper"
+      },
+      {
+        "class": "film names",
+        "text": "agárrate, brother"
+      }
+    ]
+  },
+  {
+    "text": "Donnie Darko es una obra maestra.\n",
+    "entities": [
+      {
+        "class": "film names",
+        "text": "Donnie Darko"
+      },
+      {
+        "class": "book names",
+        "text": "obra maestra"
+      }
+    ]
+  },
+  {
+    "text": "Bueno, es una obra maestra, pero también tienes que ir con la venta una abierta, como un culo abierto total.\n",
+    "entities": [
+      {
+        "class": "book names",
+        "text": "obra maestra"
+      },
+      {
+        "class": "places",
+        "text": "venta abierta"
+      },
+      {
+        "class": "places",
+        "text": "culo abierto"
+      }
+    ]
+  },
+  {
+    "text": "Me he dicho mis tres favoritas, ¿no?\n",
+    "entities": [
+      {
+        "class": "people names",
+        "text": "Me"
+      },
+      {
+        "class": "people names",
+        "text": "dicho"
+      }
+    ]
+  },
+  {
+    "text": "Blade Runner, Goodfellas y, vale, y malditos gastados.",
+    "entities": [
+      {
+        "class": "film names",
+        "text": "Blade Runner"
+      },
+      {
+        "class": "film names",
+        "text": "Goodfellas"
+      },
+      {
+        "class": "song names",
+        "text": "Malditos Gastados"
+      }
+    ]
+  }
+]
