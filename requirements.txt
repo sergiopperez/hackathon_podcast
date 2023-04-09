@@ -1,0 +1,10 @@
+argilla==1.5.1
+datasets==2.11.0
+es-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/es_core_news_sm-3.5.0/es_core_news_sm-3.5.0-py3-none-any.whl
+ipywidgets==8.0.6
+nltk==3.8.1
+openai==0.27.2
+transformers==4.27.4
+tzdata==2023.3
+youtube-search-python==1.6.6
+yt-dlp==2023.3.4
