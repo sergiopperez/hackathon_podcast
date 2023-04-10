@@ -13,5 +13,5 @@ Transcribir podcasts en español y aplicar PLN para resumir y responder pregunta
 ## Resumen del proyecto
 
 <p align="center">
-    <img src="./media/esquema_proyecto.PNG"  width="60%" height="30%">
+    <img src="./media/esquema_proyecto.png"  width="60%" height="30%">
 </p>
