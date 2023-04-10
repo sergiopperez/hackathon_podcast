@@ -6,9 +6,9 @@ Transcribir podcasts en español y aplicar PLN para resumir y responder pregunta
 </p>
 
 ## Autores 👥:
-* Sergio Pérez
-* David Mora
-* Alberto Fernández
+* [Sergio Pérez](https://www.linkedin.com/in/sergiopp?originalSubdomain=uk)
+* [David Mora](https://www.linkedin.com/in/davidfmora/)
+* [Alberto Fernández](https://www.linkedin.com/in/alberto-fernandez-hernandez-3a3474136/)
 
 ## Resumen del proyecto
 
