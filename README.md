@@ -15,3 +15,19 @@ Transcribir podcasts en español y aplicar PLN para resumir y responder pregunta
 <p align="center">
     <img src="./media/esquema_proyecto.png"  width="80%" height="50%">
 </p>
+
+1. Extracción de transcripciones de vídeos de YouTube. Herramientas empleadas:
+    * 📚 [youtubesearchpython](https://pypi.org/project/youtube-search-python/): extracción de audio (formato .mp3)
+    * 📚 [openai-whisper](https://github.com/openai/whisper): modelo transformer de "speech recognition"
+
+2. Extracción de entidades a partir de las transcripciones anteriores. Herramientas empleadas:
+    * 📚 [openai](https://pypi.org/project/openai/): obtención de entidades mediante _prompt engineering_. El modelo empleado ha sido __DaVinci003__
+    ```
+    Perform name entity recognition in Spanish. The classes are books, films, videogames, songs, places, dates, topics, organizations and people. 
+    The output should follow the format: [{'class': 'people', 'text': "name of the person"}, {'class': 'books', 'start': 'name of the book}] 
+    
+    Sentence: 
+    ```
+
+3. Limpieza de las etiquetas + posterior _finetuning_. Herramientas empleadas:
+    * 📚
