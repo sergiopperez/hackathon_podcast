@@ -13,5 +13,6 @@ Utilizar esta carpeta para subir datos que vayamos empleando en el proyecto.
 * __Entidades empleadas__:
 
 ==highlight==
-
+!\[status up\](https://napkin-examples.npkn.net/site-status-badge/)
+!\[status down\](https://napkin-examples.npkn.net/site-status-badge/400)
 
