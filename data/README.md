@@ -1,6 +1,18 @@
 # Carpeta data
 
-Utilizar esta carpeta para subir datos que vayamos empleando en el proyecto.
+Organización de la carpeta:
+
+```
+- Carpeta principal
+   \ audio
+        - Archivo 1.1.txt
+        - Archivo 1.2.txt
+   \ raw_transcription
+        - Subsubcarpeta 2.1
+            - Archivo 2.1.1.txt
+        - Archivo 2.1.txt
+   \ json_entity
+```
 
 * Los datos empleados se han extraído del Podcast del diario Público ["Deforme Semanal"](https://www.publico.es/publico-tv/deforme-semanal)
 * De cara a futuras mejoras del modelo (ej: incorporación de nuevas entidades), disponemos de Podcasts/vídeos procedentes de diversos canales:
