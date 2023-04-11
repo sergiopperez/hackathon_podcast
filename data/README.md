@@ -12,7 +12,4 @@ Utilizar esta carpeta para subir datos que vayamos empleando en el proyecto.
 
 * __Entidades empleadas__:
 
-==highlight==
-!\[status up\](https://napkin-examples.npkn.net/site-status-badge/)
-!\[status down\](https://napkin-examples.npkn.net/site-status-badge/400)
-
+[![view - Documentation](https://img.shields.io/badge/view-Documentation-blue?style=for-the-badge)](/docs/ "Go to project documentation")
