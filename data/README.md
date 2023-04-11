@@ -8,4 +8,8 @@ Utilizar esta carpeta para subir datos que vayamos empleando en el proyecto.
 	* [EmprendeAprendiendo](https://www.youtube.com/@EmprendeAprendiendo)
 	* [Marc Vidal](https://www.youtube.com/@marc_vidal)
 	* [Cinéfilos](https://www.youtube.com/@LosCinefilos)
-	* [FinanzasParaTodos](https://www.youtube.com/@FinanzasparatodosYT) 
+	* [FinanzasParaTodos](https://www.youtube.com/@FinanzasparatodosYT)
+
+* __Entidades empleadas__:
+
+<span style="background-color: #FFFF00">Marked text</span>
