@@ -3,15 +3,15 @@
 Organización de la carpeta:
 
 ```
-- Carpeta principal
-   \ audio
+\Carpeta principal
+   	\audio
         - Archivo 1.1.txt
         - Archivo 1.2.txt
-   \ raw_transcription
+   	\raw_transcription
         - Subsubcarpeta 2.1
             - Archivo 2.1.1.txt
         - Archivo 2.1.txt
-   \ json_entity
+   	\json_entity
 ```
 
 * Los datos empleados se han extraído del Podcast del diario Público ["Deforme Semanal"](https://www.publico.es/publico-tv/deforme-semanal)
