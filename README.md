@@ -30,4 +30,10 @@ Transcribir podcasts en español y aplicar PLN para resumir y responder pregunta
     ```
 
 3. Limpieza de las etiquetas + posterior _finetuning_. Herramientas empleadas:
-    * 📚
+    * 📚 [argilla](https://argilla.io/): re-etiquetado manual (corrección de errores)
+        * 📊 __Tras el re-etiquetado, el dataset final se encuentra almacenado [en el siguiente enlace](https://huggingface.co/datasets/hackathon-somos-nlp-2023/podcasts-ner-es)__ 
+    * 📚 [torch](https://pypi.org/project/torch/) + [huggingface](https://huggingface.co/): _finetuning_ del modelo GPT-J
+
+4. Despliegue final del modelo. Herramientas empleadas:
+    * [gradio](https://gradio.app/): interfaz web para despliegue de modelos ML/DL
+        * 
