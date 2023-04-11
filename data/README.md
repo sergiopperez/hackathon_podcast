@@ -15,3 +15,4 @@ Utilizar esta carpeta para subir datos que vayamos empleando en el proyecto.
 The classes are books, films, videogames, songs, places, dates, topics, organizations and people.
 
 En la película ![2001: Una Odisea en el espacio](https://img.shields.io/badge/Pel%C3%ADcula-2001%3A%20Una%20Odisea%20en%20el%20Espacio-blue), nos encontramos con una inteligencia artificial, HAL 9000, con claras intenciones malignas. No obstante, ![David Bowman](https://img.shields.io/badge/Persona-David%20Bowman-green) (el protagonista) no concebía las I.A como un peligro, pese a la experiencia vivida.
+Del mismo modo, en libros como !["Vida 3.0"](https://img.shields.io/badge/Libro-Vida%203.0-orange), escrito por ![Max Tegmmark](https://img.shields.io/badge/Persona-Max%20Tegmmark-green) (investigador del !["MiT"](https://img.shields.io/badge/Organización-MiT-red) ![EEUU](https://img.shields.io/badge/Lugares-EEUU-yellow))
