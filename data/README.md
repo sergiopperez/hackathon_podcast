@@ -12,5 +12,6 @@ Utilizar esta carpeta para subir datos que vayamos empleando en el proyecto.
 
 * __Entidades empleadas__:
 
-<mark>Marked text</mark>
+==highlight==
+
 
