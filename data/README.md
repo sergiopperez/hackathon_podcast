@@ -12,4 +12,6 @@ Utilizar esta carpeta para subir datos que vayamos empleando en el proyecto.
 
 * __Entidades empleadas__:
 
-[![view - Documentation](https://img.shields.io/badge/view-Documentation-blue?style=for-the-badge)](/docs/ "Go to project documentation")
+The classes are books, films, videogames, songs, places, dates, topics, organizations and people.
+
+En la película [![2001: Una Odisea en el espacio](https://img.shields.io/badge/view-Documentation-blue?style=for-the-badge)], nos encontramos con una inteligencia artificial, HAL 9000, con claras intenciones malignas. No obstante, [![David Bowman](https://img.shields.io/badge/view-Documentation-green?style=for-the-badge)] (el protagonista) no concebía las I.A como un peligro, pese a la experiencia vivida.
