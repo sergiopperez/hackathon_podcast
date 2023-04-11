@@ -12,4 +12,5 @@ Utilizar esta carpeta para subir datos que vayamos empleando en el proyecto.
 
 * __Entidades empleadas__:
 
-<span style="background-color: #FFFF00">Marked text</span>
+<mark>Marked text</mark>
+
