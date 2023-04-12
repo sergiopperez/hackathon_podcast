@@ -11,7 +11,7 @@ Organización de la carpeta:
         \ processed_transcription
         	Transcripciones ya procesadas
    	\json_entity
-		Ficheros con las entidades extraídas de las transcripciones (a parttir de DaVinci-003)
+		Ficheros con las entidades extraídas de las transcripciones (a partir de DaVinci-003)
 ```
 
 * Los datos empleados se han extraído del Podcast del diario Público ["Deforme Semanal"](https://www.publico.es/publico-tv/deforme-semanal)
