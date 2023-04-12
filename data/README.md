@@ -7,11 +7,11 @@ Organización de la carpeta:
    	\ audio
 		Ficheros .mp3 de los audios extraídos de los podcast
    	\ raw_transcription
-		Transcripciones originales extraídas a partir de __Whisper__
+		Transcripciones originales extraídas a partir de Whisper
         \ processed_transcription
         	Transcripciones ya procesadas
    	\json_entity
-		Ficheros con las entidades extraídas de las transcripciones (a parttir de __DaVinci 003__)
+		Ficheros con las entidades extraídas de las transcripciones (a parttir de DaVinci-003)
 ```
 
 * Los datos empleados se han extraído del Podcast del diario Público ["Deforme Semanal"](https://www.publico.es/publico-tv/deforme-semanal)
