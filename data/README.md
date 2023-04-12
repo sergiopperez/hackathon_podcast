@@ -3,15 +3,15 @@
 Organización de la carpeta:
 
 ```
-\Carpeta principal
-   	\audio
-        - Archivo 1.1.txt
-        - Archivo 1.2.txt
-   	\raw_transcription
-        - Subsubcarpeta 2.1
-            - Archivo 2.1.1.txt
-        - Archivo 2.1.txt
+\ Carpeta principal
+   	\ audio
+		Ficheros .mp3 de los audios extraídos de los podcast
+   	\ raw_transcription
+		Transcripciones originales extraídas a partir de __Whisper__
+        \ processed_transcription
+        	Transcripciones ya procesadas
    	\json_entity
+		Ficheros con las entidades extraídas de las transcripciones (a parttir de __DaVinci 003__)
 ```
 
 * Los datos empleados se han extraído del Podcast del diario Público ["Deforme Semanal"](https://www.publico.es/publico-tv/deforme-semanal)
