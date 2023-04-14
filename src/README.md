@@ -4,12 +4,15 @@ Utilizar esta carpeta para subir todos los notebooks/scripts que vayamos emplean
 
 ```
 \ Carpeta principal
-   	\ audio
-		Ficheros .mp3 de los audios extraídos de los podcast
-   	\ raw_transcription
-		Transcripciones originales extraídas a partir de Whisper
-        \ processed_transcription
-        	Transcripciones ya procesadas
-   	\json_entity
-		Ficheros con las entidades extraídas de las transcripciones (a partir de DaVinci-003)
+   	\ Audio to Text tools
+		Carpeta con diferentes herramientas para extracción de transcripciones. Se barajan diferentes librerías:
+		* __Whisper__ ✅
+		* __youtube-transcript-api__ ❌
+		* __yt-dlp__ ❌
+   	\ NER 
+		Carpeta con _notebooks_
+		\ get_transcriptions.ipynb
+		\ create_entities_json.ipynb
+		\ set_up_HF_dataset_and_trainer.ipynb
+		\ peft-gpt-j.ipynb
 ```
