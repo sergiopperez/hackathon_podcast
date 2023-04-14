@@ -10,7 +10,7 @@ Utilizar esta carpeta para subir todos los notebooks/scripts que vayamos emplean
 		2. youtube-transcript-api ❌
 		3. yt-dlp ❌
    	\ NER 
-		Carpeta con _notebooks_
+		Carpeta con Notebooks
 		\ get_transcriptions.ipynb
 		\ create_entities_json.ipynb
 		\ set_up_HF_dataset_and_trainer.ipynb
