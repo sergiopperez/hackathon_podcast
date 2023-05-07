@@ -2,7 +2,7 @@
 Transcribir podcasts en español y aplicar PLN para resumir y responder preguntas
 
 <p align="center">
-    <img src="https://huggingface.co/front/assets/huggingface_logo.svg"  width="30%" height="10%">
+    <img src="https://huggingface.co/front/assets/huggingface_logo.svg"  width="10%" height="5%">
 </p>
 
 ## Autores 👥:
