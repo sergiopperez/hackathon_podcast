@@ -1,5 +1,5 @@
 # PodcastNER - Hackathon SomosNLP 🤗
-Transcribir podcasts en español y aplicar PLN para resumir y responder preguntas
+Transcribir podcasts en español y aplicar PLN para extraer entidades
 
 <p align="center">
     <img src="https://huggingface.co/front/assets/huggingface_logo.svg"  width="10%" height="5%">
